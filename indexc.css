@@ -1,0 +1,17 @@
+.a1{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    animation-name: thd;
+    animation-duration: 5s;
+    position: relative;
+}
+.a1:hover{
+    animation: infinite;
+    position: relative;
+    animation-duration: 5s;
+    background-color: blue;
+}
+@keyframes-thd{
+
+}
